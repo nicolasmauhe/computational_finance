@@ -1,2 +1,2 @@
 bt
-pandoc
+cvxopt

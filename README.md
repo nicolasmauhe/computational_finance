@@ -2,13 +2,13 @@
 
 ## Using Python to analyze financial data and test automated strategies
 
-Computational Finance, December 11 and 13, 2017
+Computational Finance, Université de Bordeaux, December 11 and 13, 2017
 
 Nicolas Mauhé
 
 ### Download the course
 
-This is the way to go if you have python 2.7, jupyter notebook and bt installed. You can modify / save the course, and use the full ressources of your computer.
+This is the way to go if you have python 2.7, jupyter notebook and some pytho packages(matplotlib, pandas, numpy, bt) installed. You can modify / save the course, and use the full ressources of your computer.
 Right-click on [here](https://github.com/nicolasmauhe/computational_finance/raw/master/course.ipynb) and "save target as".
 
 ### Launch the course online
