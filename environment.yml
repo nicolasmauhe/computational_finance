@@ -9,4 +9,5 @@ dependencies:
   - pandas
   - quandl
   - rise
-  - bt
+  - pip:
+    - bt
