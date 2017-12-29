@@ -1,3 +1,0 @@
-bt
-quandl
-rise
