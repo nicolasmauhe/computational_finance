@@ -8,7 +8,7 @@ Nicolas Mauhé
 
 ### Download the course
 
-This is the way to go if you have python, jupyter notebook and some pytho packages(matplotlib, pandas, numpy, bt) installed. You can modify / save the course, and use the full ressources of your computer.
+This is the way to go if you have python, jupyter notebook and some python packages(matplotlib, pandas, numpy, bt, quantopian) installed. You can modify / save the course, and use the full ressources of your computer.
 Right-click on [here](https://github.com/nicolasmauhe/computational_finance/raw/master/course.ipynb) and "save target as".
 
 ### Launch the course online
