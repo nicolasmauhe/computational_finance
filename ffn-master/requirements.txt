@@ -1,0 +1,11 @@
+future
+ipython
+numpy
+pandas == 0.22.0
+tabulate
+pandas_datareader
+decorator
+scikit-learn
+scipy
+matplotlib
+coverage
