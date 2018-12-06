@@ -11,3 +11,4 @@ dependencies:
   - rise
   - pip:
     - bt
+    - ffn
