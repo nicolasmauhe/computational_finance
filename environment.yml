@@ -1,4 +1,3 @@
-name: rise-environment
 channels:
   - damianavila82
   - conda-forge
@@ -8,7 +7,6 @@ dependencies:
   - matplotlib
   - pandas
   - quandl
-  - rise
   - pip:
     - bt
     - ffn
