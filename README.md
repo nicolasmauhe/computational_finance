@@ -2,7 +2,7 @@
 
 ## Using Python to analyze financial data and test automated strategies
 
-Computational Finance, Université de Bordeaux, December 11 and 13, 2017
+Computational Finance, Université de Bordeaux, 2019
 
 Nicolas Mauhé
 
