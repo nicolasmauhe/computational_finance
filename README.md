@@ -13,6 +13,4 @@ Right-click on [here](https://github.com/nicolasmauhe/computational_finance/raw/
 
 ### Launch the course online
 
-If you cannot run the notebook on your own computer, you can use the wonderful and revolutionary [mybinder service](https://mybinder.readthedocs.io/en/latest/index.html). 
-
-Launch the course by clicking on [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nicolasmauhe/computational_finance/master?filepath=course.ipynb)
+If you cannot run the notebook on your own computer, you can use [Google Colab](colab.research.google.com) and search for "nicolasmauhe" in the Github tab to find this notebook. Do not forget to save your own copy on Google Drive, otherwise you will not be able to keep your modifications.
